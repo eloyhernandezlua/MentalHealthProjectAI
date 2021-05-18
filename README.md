@@ -23,3 +23,14 @@ Adentramiento a la clase núcleo del proyecto en la cual se nos explica y lleva 
 Desglose entero de los 5 grandes pasos que lleva a cabo la libreria para hacer el proceso de automatic speech recognition con las indicaciones que tendría que llevar a cabo el usuario para poder personalizarlo de acuerdo a sus necesidades.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gq7Ik1JZQAs3Jo3sbtEJy4sRa7KaNnSI)
+
+
+## Más sobre Speechbrain
+Github:
+https://speechbrain.github.io/index.html
+
+Documetación:https://speechbrain.readthedocs.io/en/latest/index.html
+
+Hugginface:
+https://huggingface.co/speechbrain
+
