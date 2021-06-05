@@ -7,10 +7,10 @@ Original file is located at
     https://colab.research.google.com/drive/1U1xujD9Aq5QUGUULiBzCdVib9PAFUEqg
 """
 
-!pip install speechbrain
-!pip install transformers
-!pip install pydub
-!pip install librosa
+# !pip install speechbrain
+# !pip install transformers
+# !pip install pydub
+# !pip install librosa
 
 import time
 from time import perf_counter
